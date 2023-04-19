@@ -1,0 +1,198 @@
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\FirstCommand.API.deps.json
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\FirstCommand.API.runtimeconfig.json
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\FirstCommand.API.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\FirstCommand.API.pdb
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Amazon.Lambda.APIGatewayEvents.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Amazon.Lambda.Core.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Amazon.Lambda.Serialization.Json.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\AWSSDK.Core.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\AWSSDK.SecretsManager.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Azure.Core.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Azure.Identity.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Data.SqlClient.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Caching.Memory.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Options.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Primitives.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Identity.Client.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Abstractions.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Logging.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Protocols.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Tokens.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.SqlServer.Server.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Win32.SystemEvents.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Newtonsoft.Json.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\System.Configuration.ConfigurationManager.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\System.Drawing.Common.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\System.IdentityModel.Tokens.Jwt.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\System.Memory.Data.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\System.Runtime.Caching.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\System.Security.Permissions.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\System.Windows.Extensions.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\apphost
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\libhostpolicy.so
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\libhostfxr.so
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\FirstCommand.API.BLL.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\FirstCommand.API.Database.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\FirstCommand.API.Services.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\FirstCommand.API.BLL.pdb
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\FirstCommand.API.Database.pdb
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\FirstCommand.API.Services.pdb
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\obj\Release\net6.0\linux-x64\FirstCommand.API.csproj.AssemblyReference.cache
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\obj\Release\net6.0\linux-x64\FirstCommand.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\obj\Release\net6.0\linux-x64\FirstCommand.API.AssemblyInfoInputs.cache
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\obj\Release\net6.0\linux-x64\FirstCommand.API.AssemblyInfo.cs
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\obj\Release\net6.0\linux-x64\FirstCommand.API.csproj.CoreCompileInputs.cache
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\obj\Release\net6.0\linux-x64\FirstCommand.API.csproj.CopyComplete
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\obj\Release\net6.0\linux-x64\FirstCommand.API.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\obj\Release\net6.0\linux-x64\refint\FirstCommand.API.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\obj\Release\net6.0\linux-x64\FirstCommand.API.pdb
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\obj\Release\net6.0\linux-x64\FirstCommand.API.genruntimeconfig.cache
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API\obj\Release\net6.0\linux-x64\ref\FirstCommand.API.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\FirstCommand.API.deps.json
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\FirstCommand.API.runtimeconfig.json
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\FirstCommand.API.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\FirstCommand.API.pdb
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Amazon.Lambda.Core.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Amazon.Lambda.Serialization.Json.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\AWSSDK.Core.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\AWSSDK.SecretsManager.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Azure.Core.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Azure.Identity.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Data.SqlClient.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Options.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Identity.Client.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Logging.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Protocols.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Tokens.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.SqlServer.Server.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Win32.SystemEvents.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Newtonsoft.Json.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\System.Configuration.ConfigurationManager.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\System.Drawing.Common.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\System.Memory.Data.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\System.Runtime.Caching.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\System.Security.Permissions.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\System.Windows.Extensions.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\apphost
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\libhostpolicy.so
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\libhostfxr.so
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\FirstCommand.API.BLL.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\FirstCommand.API.Database.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\FirstCommand.API.Services.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\FirstCommand.API.BLL.pdb
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\FirstCommand.API.Database.pdb
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\FirstCommand.API.Services.pdb
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\obj\Release\net6.0\linux-x64\FirstCommand.API.csproj.AssemblyReference.cache
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\obj\Release\net6.0\linux-x64\FirstCommand.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\obj\Release\net6.0\linux-x64\FirstCommand.API.AssemblyInfoInputs.cache
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\obj\Release\net6.0\linux-x64\FirstCommand.API.AssemblyInfo.cs
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\obj\Release\net6.0\linux-x64\FirstCommand.API.csproj.CoreCompileInputs.cache
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\obj\Release\net6.0\linux-x64\FirstCommand.API.csproj.CopyComplete
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\obj\Release\net6.0\linux-x64\FirstCommand.API.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\obj\Release\net6.0\linux-x64\refint\FirstCommand.API.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\obj\Release\net6.0\linux-x64\FirstCommand.API.pdb
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\obj\Release\net6.0\linux-x64\FirstCommand.API.genruntimeconfig.cache
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\obj\Release\net6.0\linux-x64\ref\FirstCommand.API.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\FirstCommand.API.deps.json
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\FirstCommand.API.runtimeconfig.json
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\FirstCommand.API.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\FirstCommand.API.pdb
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Amazon.Lambda.Core.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Amazon.Lambda.Serialization.Json.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\AWSSDK.Core.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\AWSSDK.SecretsManager.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Azure.Core.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Azure.Identity.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Data.SqlClient.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Options.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Identity.Client.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Logging.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Protocols.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Tokens.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.SqlServer.Server.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Microsoft.Win32.SystemEvents.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\Newtonsoft.Json.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\System.Configuration.ConfigurationManager.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\System.Drawing.Common.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\System.Memory.Data.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\System.Runtime.Caching.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\System.Security.Permissions.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\System.Windows.Extensions.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\apphost
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\libhostpolicy.so
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\libhostfxr.so
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\FirstCommand.API.BLL.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\FirstCommand.API.Database.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\FirstCommand.API.Services.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\FirstCommand.API.BLL.pdb
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\FirstCommand.API.Database.pdb
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\bin\Release\net6.0\linux-x64\FirstCommand.API.Services.pdb
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\obj\Release\net6.0\linux-x64\FirstCommand.API.csproj.AssemblyReference.cache
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\obj\Release\net6.0\linux-x64\FirstCommand.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\obj\Release\net6.0\linux-x64\FirstCommand.API.AssemblyInfoInputs.cache
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\obj\Release\net6.0\linux-x64\FirstCommand.API.AssemblyInfo.cs
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\obj\Release\net6.0\linux-x64\FirstCommand.API.csproj.CoreCompileInputs.cache
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\obj\Release\net6.0\linux-x64\FirstCommand.API.csproj.CopyComplete
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\obj\Release\net6.0\linux-x64\FirstCommand.API.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\obj\Release\net6.0\linux-x64\refint\FirstCommand.API.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\obj\Release\net6.0\linux-x64\FirstCommand.API.pdb
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\obj\Release\net6.0\linux-x64\FirstCommand.API.genruntimeconfig.cache
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API\obj\Release\net6.0\linux-x64\ref\FirstCommand.API.dll

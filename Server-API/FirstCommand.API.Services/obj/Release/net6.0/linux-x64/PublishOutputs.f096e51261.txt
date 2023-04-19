@@ -1,0 +1,7 @@
+C:\Swapneel\Globe Life\Project\First Command\development\Server\FirstCommand.API\bin\Release\net6.0\publish\FirstCommand.API.Services.dll
+C:\Swapneel\Globe Life\Project\First Command\development\Server\FirstCommand.API\bin\Release\net6.0\publish\FirstCommand.API.Services.deps.json
+C:\Swapneel\Globe Life\Project\First Command\development\Server\FirstCommand.API\bin\Release\net6.0\publish\FirstCommand.API.Services.runtimeconfig.json
+C:\Swapneel\Globe Life\Project\First Command\development\Server\FirstCommand.API\bin\Release\net6.0\publish\FirstCommand.API.Services.pdb
+C:\Swapneel\Globe Life\Project\First Command\development\Server\FirstCommand.API\bin\Release\net6.0\publish\AWSSDK.Core.dll
+C:\Swapneel\Globe Life\Project\First Command\development\Server\FirstCommand.API\bin\Release\net6.0\publish\AWSSDK.SecretsManager.dll
+C:\Swapneel\Globe Life\Project\First Command\development\Server\FirstCommand.API\bin\Release\net6.0\publish\Newtonsoft.Json.dll

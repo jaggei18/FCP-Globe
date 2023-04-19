@@ -1,0 +1,7 @@
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\publish\FirstCommand.API.Services.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\publish\FirstCommand.API.Services.deps.json
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\publish\FirstCommand.API.Services.runtimeconfig.json
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\publish\FirstCommand.API.Services.pdb
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\publish\AWSSDK.Core.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\publish\AWSSDK.SecretsManager.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API\bin\Release\net6.0\publish\Newtonsoft.Json.dll

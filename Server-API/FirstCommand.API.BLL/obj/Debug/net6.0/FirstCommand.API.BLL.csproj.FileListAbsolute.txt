@@ -1,0 +1,85 @@
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.BLL.deps.json
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.BLL.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.BLL.pdb
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.Database.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.Services.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.Database.pdb
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.Services.pdb
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.csproj.AssemblyReference.cache
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.AssemblyInfoInputs.cache
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.AssemblyInfo.cs
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.csproj.CoreCompileInputs.cache
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.csproj.CopyComplete
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\obj\Debug\net6.0\refint\FirstCommand.API.BLL.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.pdb
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\obj\Debug\net6.0\ref\FirstCommand.API.BLL.dll
+C:\Globe Life\First Command1\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.BLL.deps.json
+C:\Globe Life\First Command1\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.BLL.dll
+C:\Globe Life\First Command1\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.BLL.pdb
+C:\Globe Life\First Command1\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.Database.dll
+C:\Globe Life\First Command1\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.Services.dll
+C:\Globe Life\First Command1\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.Database.pdb
+C:\Globe Life\First Command1\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.Services.pdb
+C:\Globe Life\First Command1\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.csproj.AssemblyReference.cache
+C:\Globe Life\First Command1\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Globe Life\First Command1\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.AssemblyInfoInputs.cache
+C:\Globe Life\First Command1\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.AssemblyInfo.cs
+C:\Globe Life\First Command1\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.csproj.CoreCompileInputs.cache
+C:\Globe Life\First Command1\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.csproj.CopyComplete
+C:\Globe Life\First Command1\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.dll
+C:\Globe Life\First Command1\Server\FirstCommand.API.BLL\obj\Debug\net6.0\refint\FirstCommand.API.BLL.dll
+C:\Globe Life\First Command1\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.pdb
+C:\Globe Life\First Command1\Server\FirstCommand.API.BLL\obj\Debug\net6.0\ref\FirstCommand.API.BLL.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.BLL.deps.json
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.BLL.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.BLL.pdb
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.Database.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.Services.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.Database.pdb
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.Services.pdb
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.csproj.AssemblyReference.cache
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.AssemblyInfoInputs.cache
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.AssemblyInfo.cs
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.csproj.CoreCompileInputs.cache
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.csproj.CopyComplete
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\obj\Debug\net6.0\refint\FirstCommand.API.BLL.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.pdb
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\obj\Debug\net6.0\ref\FirstCommand.API.BLL.dll
+C:\Globe Life\First Command\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.BLL.deps.json
+C:\Globe Life\First Command\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.BLL.dll
+C:\Globe Life\First Command\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.BLL.pdb
+C:\Globe Life\First Command\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.Database.dll
+C:\Globe Life\First Command\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.Services.dll
+C:\Globe Life\First Command\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.Database.pdb
+C:\Globe Life\First Command\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.Services.pdb
+C:\Globe Life\First Command\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.csproj.AssemblyReference.cache
+C:\Globe Life\First Command\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Globe Life\First Command\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.AssemblyInfoInputs.cache
+C:\Globe Life\First Command\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.AssemblyInfo.cs
+C:\Globe Life\First Command\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.csproj.CoreCompileInputs.cache
+C:\Globe Life\First Command\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.csproj.CopyComplete
+C:\Globe Life\First Command\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.dll
+C:\Globe Life\First Command\Server\FirstCommand.API.BLL\obj\Debug\net6.0\refint\FirstCommand.API.BLL.dll
+C:\Globe Life\First Command\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.pdb
+C:\Globe Life\First Command\Server\FirstCommand.API.BLL\obj\Debug\net6.0\ref\FirstCommand.API.BLL.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.BLL.deps.json
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.BLL.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.BLL.pdb
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.Database.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.Services.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.Database.pdb
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\bin\Debug\net6.0\FirstCommand.API.Services.pdb
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.csproj.AssemblyReference.cache
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.AssemblyInfoInputs.cache
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.AssemblyInfo.cs
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.csproj.CoreCompileInputs.cache
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.csproj.CopyComplete
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\obj\Debug\net6.0\refint\FirstCommand.API.BLL.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\obj\Debug\net6.0\FirstCommand.API.BLL.pdb
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\obj\Debug\net6.0\ref\FirstCommand.API.BLL.dll

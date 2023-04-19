@@ -1,0 +1,57 @@
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\bin\Release\net6.0\linux-x64\FirstCommand.API.BLL.deps.json
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\bin\Release\net6.0\linux-x64\FirstCommand.API.BLL.runtimeconfig.json
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\bin\Release\net6.0\linux-x64\FirstCommand.API.BLL.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\bin\Release\net6.0\linux-x64\FirstCommand.API.BLL.pdb
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\bin\Release\net6.0\linux-x64\FirstCommand.API.Database.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\bin\Release\net6.0\linux-x64\FirstCommand.API.Services.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\bin\Release\net6.0\linux-x64\FirstCommand.API.Database.pdb
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\bin\Release\net6.0\linux-x64\FirstCommand.API.Services.pdb
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\obj\Release\net6.0\linux-x64\FirstCommand.API.BLL.csproj.AssemblyReference.cache
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\obj\Release\net6.0\linux-x64\FirstCommand.API.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\obj\Release\net6.0\linux-x64\FirstCommand.API.BLL.AssemblyInfoInputs.cache
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\obj\Release\net6.0\linux-x64\FirstCommand.API.BLL.AssemblyInfo.cs
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\obj\Release\net6.0\linux-x64\FirstCommand.API.BLL.csproj.CoreCompileInputs.cache
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\obj\Release\net6.0\linux-x64\FirstCommand.API.BLL.csproj.CopyComplete
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\obj\Release\net6.0\linux-x64\FirstCommand.API.BLL.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\obj\Release\net6.0\linux-x64\refint\FirstCommand.API.BLL.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\obj\Release\net6.0\linux-x64\FirstCommand.API.BLL.pdb
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\obj\Release\net6.0\linux-x64\FirstCommand.API.BLL.genruntimeconfig.cache
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.BLL\obj\Release\net6.0\linux-x64\ref\FirstCommand.API.BLL.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\bin\Release\net6.0\linux-x64\FirstCommand.API.BLL.deps.json
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\bin\Release\net6.0\linux-x64\FirstCommand.API.BLL.runtimeconfig.json
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\bin\Release\net6.0\linux-x64\FirstCommand.API.BLL.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\bin\Release\net6.0\linux-x64\FirstCommand.API.BLL.pdb
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\bin\Release\net6.0\linux-x64\FirstCommand.API.Database.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\bin\Release\net6.0\linux-x64\FirstCommand.API.Services.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\bin\Release\net6.0\linux-x64\FirstCommand.API.Database.pdb
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\bin\Release\net6.0\linux-x64\FirstCommand.API.Services.pdb
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\obj\Release\net6.0\linux-x64\FirstCommand.API.BLL.csproj.AssemblyReference.cache
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\obj\Release\net6.0\linux-x64\FirstCommand.API.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\obj\Release\net6.0\linux-x64\FirstCommand.API.BLL.AssemblyInfoInputs.cache
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\obj\Release\net6.0\linux-x64\FirstCommand.API.BLL.AssemblyInfo.cs
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\obj\Release\net6.0\linux-x64\FirstCommand.API.BLL.csproj.CoreCompileInputs.cache
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\obj\Release\net6.0\linux-x64\FirstCommand.API.BLL.csproj.CopyComplete
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\obj\Release\net6.0\linux-x64\FirstCommand.API.BLL.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\obj\Release\net6.0\linux-x64\refint\FirstCommand.API.BLL.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\obj\Release\net6.0\linux-x64\FirstCommand.API.BLL.pdb
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\obj\Release\net6.0\linux-x64\FirstCommand.API.BLL.genruntimeconfig.cache
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.BLL\obj\Release\net6.0\linux-x64\ref\FirstCommand.API.BLL.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\bin\Release\net6.0\linux-x64\FirstCommand.API.BLL.deps.json
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\bin\Release\net6.0\linux-x64\FirstCommand.API.BLL.runtimeconfig.json
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\bin\Release\net6.0\linux-x64\FirstCommand.API.BLL.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\bin\Release\net6.0\linux-x64\FirstCommand.API.BLL.pdb
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\bin\Release\net6.0\linux-x64\FirstCommand.API.Database.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\bin\Release\net6.0\linux-x64\FirstCommand.API.Services.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\bin\Release\net6.0\linux-x64\FirstCommand.API.Database.pdb
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\bin\Release\net6.0\linux-x64\FirstCommand.API.Services.pdb
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\obj\Release\net6.0\linux-x64\FirstCommand.API.BLL.csproj.AssemblyReference.cache
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\obj\Release\net6.0\linux-x64\FirstCommand.API.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\obj\Release\net6.0\linux-x64\FirstCommand.API.BLL.AssemblyInfoInputs.cache
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\obj\Release\net6.0\linux-x64\FirstCommand.API.BLL.AssemblyInfo.cs
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\obj\Release\net6.0\linux-x64\FirstCommand.API.BLL.csproj.CoreCompileInputs.cache
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\obj\Release\net6.0\linux-x64\FirstCommand.API.BLL.csproj.CopyComplete
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\obj\Release\net6.0\linux-x64\FirstCommand.API.BLL.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\obj\Release\net6.0\linux-x64\refint\FirstCommand.API.BLL.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\obj\Release\net6.0\linux-x64\FirstCommand.API.BLL.pdb
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\obj\Release\net6.0\linux-x64\FirstCommand.API.BLL.genruntimeconfig.cache
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.BLL\obj\Release\net6.0\linux-x64\ref\FirstCommand.API.BLL.dll

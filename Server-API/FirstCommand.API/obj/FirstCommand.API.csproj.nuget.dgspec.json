@@ -1,0 +1,288 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\Swapneel\\Projects\\First Command\\development\\Server-API\\FirstCommand.API\\FirstCommand.API.csproj": {}
+  },
+  "projects": {
+    "H:\\Swapneel\\Projects\\First Command\\development\\Server-API\\FirstCommand.API.BLL\\FirstCommand.API.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Swapneel\\Projects\\First Command\\development\\Server-API\\FirstCommand.API.BLL\\FirstCommand.API.BLL.csproj",
+        "projectName": "FirstCommand.API.BLL",
+        "projectPath": "H:\\Swapneel\\Projects\\First Command\\development\\Server-API\\FirstCommand.API.BLL\\FirstCommand.API.BLL.csproj",
+        "packagesPath": "C:\\Users\\vensbaitule\\.nuget\\packages\\",
+        "outputPath": "H:\\Swapneel\\Projects\\First Command\\development\\Server-API\\FirstCommand.API.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vensbaitule\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "H:\\Swapneel\\Projects\\First Command\\development\\Server-API\\FirstCommand.API.Database\\FirstCommand.API.Database.csproj": {
+                "projectPath": "H:\\Swapneel\\Projects\\First Command\\development\\Server-API\\FirstCommand.API.Database\\FirstCommand.API.Database.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\Swapneel\\Projects\\First Command\\development\\Server-API\\FirstCommand.API.Database\\FirstCommand.API.Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Swapneel\\Projects\\First Command\\development\\Server-API\\FirstCommand.API.Database\\FirstCommand.API.Database.csproj",
+        "projectName": "FirstCommand.API.Database",
+        "projectPath": "H:\\Swapneel\\Projects\\First Command\\development\\Server-API\\FirstCommand.API.Database\\FirstCommand.API.Database.csproj",
+        "packagesPath": "C:\\Users\\vensbaitule\\.nuget\\packages\\",
+        "outputPath": "H:\\Swapneel\\Projects\\First Command\\development\\Server-API\\FirstCommand.API.Database\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vensbaitule\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "H:\\Swapneel\\Projects\\First Command\\development\\Server-API\\FirstCommand.API.Services\\FirstCommand.API.Services.csproj": {
+                "projectPath": "H:\\Swapneel\\Projects\\First Command\\development\\Server-API\\FirstCommand.API.Services\\FirstCommand.API.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\Swapneel\\Projects\\First Command\\development\\Server-API\\FirstCommand.API.Services\\FirstCommand.API.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Swapneel\\Projects\\First Command\\development\\Server-API\\FirstCommand.API.Services\\FirstCommand.API.Services.csproj",
+        "projectName": "FirstCommand.API.Services",
+        "projectPath": "H:\\Swapneel\\Projects\\First Command\\development\\Server-API\\FirstCommand.API.Services\\FirstCommand.API.Services.csproj",
+        "packagesPath": "C:\\Users\\vensbaitule\\.nuget\\packages\\",
+        "outputPath": "H:\\Swapneel\\Projects\\First Command\\development\\Server-API\\FirstCommand.API.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vensbaitule\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AWSSDK.SecretsManager": {
+              "target": "Package",
+              "version": "[3.7.102.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\Swapneel\\Projects\\First Command\\development\\Server-API\\FirstCommand.API\\FirstCommand.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Swapneel\\Projects\\First Command\\development\\Server-API\\FirstCommand.API\\FirstCommand.API.csproj",
+        "projectName": "FirstCommand.API",
+        "projectPath": "H:\\Swapneel\\Projects\\First Command\\development\\Server-API\\FirstCommand.API\\FirstCommand.API.csproj",
+        "packagesPath": "C:\\Users\\vensbaitule\\.nuget\\packages\\",
+        "outputPath": "H:\\Swapneel\\Projects\\First Command\\development\\Server-API\\FirstCommand.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vensbaitule\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "H:\\Swapneel\\Projects\\First Command\\development\\Server-API\\FirstCommand.API.BLL\\FirstCommand.API.BLL.csproj": {
+                "projectPath": "H:\\Swapneel\\Projects\\First Command\\development\\Server-API\\FirstCommand.API.BLL\\FirstCommand.API.BLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Amazon.Lambda.APIGatewayEvents": {
+              "target": "Package",
+              "version": "[2.5.0, )"
+            },
+            "Amazon.Lambda.Core": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Amazon.Lambda.Serialization.Json": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Amazon.Lambda.Serialization.SystemTextJson": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
+              "version": "[6.0.15, 6.0.15]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

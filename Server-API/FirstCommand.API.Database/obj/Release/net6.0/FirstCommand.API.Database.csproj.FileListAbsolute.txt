@@ -1,0 +1,51 @@
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.Database\bin\Release\net6.0\FirstCommand.API.Database.deps.json
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.Database\bin\Release\net6.0\FirstCommand.API.Database.runtimeconfig.json
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.Database\bin\Release\net6.0\FirstCommand.API.Database.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.Database\bin\Release\net6.0\FirstCommand.API.Database.pdb
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.Database\bin\Release\net6.0\FirstCommand.API.Services.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.Database\bin\Release\net6.0\FirstCommand.API.Services.pdb
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.Database\obj\Release\net6.0\FirstCommand.API.Database.csproj.AssemblyReference.cache
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.Database\obj\Release\net6.0\FirstCommand.API.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.Database\obj\Release\net6.0\FirstCommand.API.Database.AssemblyInfoInputs.cache
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.Database\obj\Release\net6.0\FirstCommand.API.Database.AssemblyInfo.cs
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.Database\obj\Release\net6.0\FirstCommand.API.Database.csproj.CoreCompileInputs.cache
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.Database\obj\Release\net6.0\FirstCommand.API.Database.csproj.CopyComplete
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.Database\obj\Release\net6.0\FirstCommand.API.Database.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.Database\obj\Release\net6.0\refint\FirstCommand.API.Database.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.Database\obj\Release\net6.0\FirstCommand.API.Database.pdb
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.Database\obj\Release\net6.0\FirstCommand.API.Database.genruntimeconfig.cache
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.Database\obj\Release\net6.0\ref\FirstCommand.API.Database.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.Database\bin\Release\net6.0\FirstCommand.API.Database.deps.json
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.Database\bin\Release\net6.0\FirstCommand.API.Database.runtimeconfig.json
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.Database\bin\Release\net6.0\FirstCommand.API.Database.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.Database\bin\Release\net6.0\FirstCommand.API.Database.pdb
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.Database\bin\Release\net6.0\FirstCommand.API.Services.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.Database\bin\Release\net6.0\FirstCommand.API.Services.pdb
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.Database\obj\Release\net6.0\FirstCommand.API.Database.csproj.AssemblyReference.cache
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.Database\obj\Release\net6.0\FirstCommand.API.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.Database\obj\Release\net6.0\FirstCommand.API.Database.AssemblyInfoInputs.cache
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.Database\obj\Release\net6.0\FirstCommand.API.Database.AssemblyInfo.cs
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.Database\obj\Release\net6.0\FirstCommand.API.Database.csproj.CoreCompileInputs.cache
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.Database\obj\Release\net6.0\FirstCommand.API.Database.csproj.CopyComplete
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.Database\obj\Release\net6.0\FirstCommand.API.Database.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.Database\obj\Release\net6.0\refint\FirstCommand.API.Database.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.Database\obj\Release\net6.0\FirstCommand.API.Database.pdb
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.Database\obj\Release\net6.0\FirstCommand.API.Database.genruntimeconfig.cache
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.Database\obj\Release\net6.0\ref\FirstCommand.API.Database.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.Database\bin\Release\net6.0\FirstCommand.API.Database.deps.json
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.Database\bin\Release\net6.0\FirstCommand.API.Database.runtimeconfig.json
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.Database\bin\Release\net6.0\FirstCommand.API.Database.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.Database\bin\Release\net6.0\FirstCommand.API.Database.pdb
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.Database\bin\Release\net6.0\FirstCommand.API.Services.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.Database\bin\Release\net6.0\FirstCommand.API.Services.pdb
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.Database\obj\Release\net6.0\FirstCommand.API.Database.csproj.AssemblyReference.cache
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.Database\obj\Release\net6.0\FirstCommand.API.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.Database\obj\Release\net6.0\FirstCommand.API.Database.AssemblyInfoInputs.cache
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.Database\obj\Release\net6.0\FirstCommand.API.Database.AssemblyInfo.cs
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.Database\obj\Release\net6.0\FirstCommand.API.Database.csproj.CoreCompileInputs.cache
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.Database\obj\Release\net6.0\FirstCommand.API.Database.csproj.CopyComplete
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.Database\obj\Release\net6.0\FirstCommand.API.Database.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.Database\obj\Release\net6.0\refint\FirstCommand.API.Database.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.Database\obj\Release\net6.0\FirstCommand.API.Database.pdb
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.Database\obj\Release\net6.0\FirstCommand.API.Database.genruntimeconfig.cache
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.Database\obj\Release\net6.0\ref\FirstCommand.API.Database.dll

@@ -1,0 +1,72 @@
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.Services\bin\Debug\net6.0\FirstCommand.API.Services.deps.json
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.Services\bin\Debug\net6.0\FirstCommand.API.Services.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.Services\bin\Debug\net6.0\FirstCommand.API.Services.pdb
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.csproj.AssemblyReference.cache
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.AssemblyInfoInputs.cache
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.AssemblyInfo.cs
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.csproj.CoreCompileInputs.cache
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.Services\obj\Debug\net6.0\refint\FirstCommand.API.Services.dll
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.pdb
+C:\Swapneel\Globe Life\Project\FirstCommand\Server\FirstCommand.API.Services\obj\Debug\net6.0\ref\FirstCommand.API.Services.dll
+C:\Globe Life\First Command1\Server\FirstCommand.API.Services\bin\Debug\net6.0\FirstCommand.API.Services.deps.json
+C:\Globe Life\First Command1\Server\FirstCommand.API.Services\bin\Debug\net6.0\FirstCommand.API.Services.dll
+C:\Globe Life\First Command1\Server\FirstCommand.API.Services\bin\Debug\net6.0\FirstCommand.API.Services.pdb
+C:\Globe Life\First Command1\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.csproj.AssemblyReference.cache
+C:\Globe Life\First Command1\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Globe Life\First Command1\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.AssemblyInfoInputs.cache
+C:\Globe Life\First Command1\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.AssemblyInfo.cs
+C:\Globe Life\First Command1\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.csproj.CoreCompileInputs.cache
+C:\Globe Life\First Command1\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.dll
+C:\Globe Life\First Command1\Server\FirstCommand.API.Services\obj\Debug\net6.0\refint\FirstCommand.API.Services.dll
+C:\Globe Life\First Command1\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.pdb
+C:\Globe Life\First Command1\Server\FirstCommand.API.Services\obj\Debug\net6.0\ref\FirstCommand.API.Services.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.Services\bin\Debug\net6.0\FirstCommand.API.Services.deps.json
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.Services\bin\Debug\net6.0\FirstCommand.API.Services.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.Services\bin\Debug\net6.0\FirstCommand.API.Services.pdb
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.csproj.AssemblyReference.cache
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.AssemblyInfoInputs.cache
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.AssemblyInfo.cs
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.csproj.CoreCompileInputs.cache
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.Services\obj\Debug\net6.0\refint\FirstCommand.API.Services.dll
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.pdb
+C:\Users\237598\Desktop\FCNew\Server\FirstCommand.API.Services\obj\Debug\net6.0\ref\FirstCommand.API.Services.dll
+C:\Globe Life\First Command\Server\FirstCommand.API.Services\bin\Debug\net6.0\FirstCommand.API.Services.deps.json
+C:\Globe Life\First Command\Server\FirstCommand.API.Services\bin\Debug\net6.0\FirstCommand.API.Services.dll
+C:\Globe Life\First Command\Server\FirstCommand.API.Services\bin\Debug\net6.0\FirstCommand.API.Services.pdb
+C:\Globe Life\First Command\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.csproj.AssemblyReference.cache
+C:\Globe Life\First Command\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Globe Life\First Command\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.AssemblyInfoInputs.cache
+C:\Globe Life\First Command\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.AssemblyInfo.cs
+C:\Globe Life\First Command\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.csproj.CoreCompileInputs.cache
+C:\Globe Life\First Command\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.dll
+C:\Globe Life\First Command\Server\FirstCommand.API.Services\obj\Debug\net6.0\refint\FirstCommand.API.Services.dll
+C:\Globe Life\First Command\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.pdb
+C:\Globe Life\First Command\Server\FirstCommand.API.Services\obj\Debug\net6.0\ref\FirstCommand.API.Services.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.Services\bin\Debug\net6.0\FirstCommand.API.Services.deps.json
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.Services\bin\Debug\net6.0\FirstCommand.API.Services.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.Services\bin\Debug\net6.0\FirstCommand.API.Services.pdb
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.csproj.AssemblyReference.cache
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.AssemblyInfoInputs.cache
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.AssemblyInfo.cs
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.csproj.CoreCompileInputs.cache
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.Services\obj\Debug\net6.0\refint\FirstCommand.API.Services.dll
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.pdb
+C:\Users\237598\Desktop\FCDevelopment\Server\FirstCommand.API.Services\obj\Debug\net6.0\ref\FirstCommand.API.Services.dll
+C:\Swapneel\Globe Life\Project\First Command\development\Server\FirstCommand.API.Services\bin\Debug\net6.0\FirstCommand.API.Services.deps.json
+C:\Swapneel\Globe Life\Project\First Command\development\Server\FirstCommand.API.Services\bin\Debug\net6.0\FirstCommand.API.Services.dll
+C:\Swapneel\Globe Life\Project\First Command\development\Server\FirstCommand.API.Services\bin\Debug\net6.0\FirstCommand.API.Services.pdb
+C:\Swapneel\Globe Life\Project\First Command\development\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.csproj.AssemblyReference.cache
+C:\Swapneel\Globe Life\Project\First Command\development\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swapneel\Globe Life\Project\First Command\development\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.AssemblyInfoInputs.cache
+C:\Swapneel\Globe Life\Project\First Command\development\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.AssemblyInfo.cs
+C:\Swapneel\Globe Life\Project\First Command\development\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.csproj.CoreCompileInputs.cache
+C:\Swapneel\Globe Life\Project\First Command\development\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.dll
+C:\Swapneel\Globe Life\Project\First Command\development\Server\FirstCommand.API.Services\obj\Debug\net6.0\refint\FirstCommand.API.Services.dll
+C:\Swapneel\Globe Life\Project\First Command\development\Server\FirstCommand.API.Services\obj\Debug\net6.0\FirstCommand.API.Services.pdb
+C:\Swapneel\Globe Life\Project\First Command\development\Server\FirstCommand.API.Services\obj\Debug\net6.0\ref\FirstCommand.API.Services.dll
